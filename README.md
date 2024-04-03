@@ -89,8 +89,10 @@
 
 
 -  ##Conclusion
+
    I think the business should be more focus on minimizing the false Negative compared to the true positive.
-   **Reasons**:
+
+    **Reasons**:
     * Missing a customer who is likely to churn (false negative) can result in revenue loss. ConnectTel would need to detect potential churners early to prevent them from leaving.
     * It can result to customer dissatisfaction.
     * It can also result to brand reputation impact.
